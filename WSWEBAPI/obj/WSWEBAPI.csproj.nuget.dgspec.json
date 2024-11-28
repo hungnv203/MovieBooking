@@ -1,0 +1,508 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+        "projectName": "WS.Movie.ApplicationService",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj"
+              },
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj"
+              },
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj"
+              },
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj",
+        "projectName": "WS.Movie.Domain",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj",
+        "projectName": "WS.Movie.Dtos",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj",
+        "projectName": "WS.Movie.Infrastructure",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+        "projectName": "WS.Share.Constant",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj",
+        "projectName": "WS.Shared.ApplicationService",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj",
+        "projectName": "WSWEBAPI",
+        "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj",
+        "packagesPath": "C:\\Users\\vanhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

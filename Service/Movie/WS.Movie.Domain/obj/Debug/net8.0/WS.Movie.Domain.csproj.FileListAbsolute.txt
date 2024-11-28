@@ -1,0 +1,15 @@
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\bin\Debug\net8.0\WS.Movie.Domain.deps.json
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\bin\Debug\net8.0\WS.Movie.Domain.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\bin\Debug\net8.0\WS.Movie.Domain.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\bin\Debug\net8.0\WS.Share.Constant.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\bin\Debug\net8.0\WS.Share.Constant.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.csproj.AssemblyReference.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.AssemblyInfoInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.AssemblyInfo.cs
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.ADD37825.Up2Date
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\refint\WS.Movie.Domain.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\WS.Movie.Domain.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Domain\obj\Debug\net8.0\ref\WS.Movie.Domain.dll

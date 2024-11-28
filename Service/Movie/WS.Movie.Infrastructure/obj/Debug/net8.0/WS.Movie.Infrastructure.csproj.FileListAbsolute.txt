@@ -1,0 +1,17 @@
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Movie.Infrastructure.deps.json
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Movie.Infrastructure.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Movie.Infrastructure.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Movie.Domain.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Share.Constant.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Movie.Domain.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\bin\Debug\net8.0\WS.Share.Constant.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.AssemblyInfo.cs
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.83401DC9.Up2Date
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\refint\WS.Movie.Infrastructure.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\WS.Movie.Infrastructure.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Infrastructure\obj\Debug\net8.0\ref\WS.Movie.Infrastructure.dll

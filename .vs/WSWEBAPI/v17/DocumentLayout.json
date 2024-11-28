@@ -1,0 +1,1583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\startup\\moviestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\startup\\moviestartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\ws.movie.applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\ws.movie.applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0CA5C1-4045-4115-88B1-49883135C85F}|Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0CA5C1-4045-4115-88B1-49883135C85F}|Service\\Movie\\WS.Movie.Infrastructure\\WS.Movie.Infrastructure.csproj|solutionrelative:service\\movie\\ws.movie.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\icinemaroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\icinemaroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\ticketdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\ticketdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\userdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\userdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\cinemaroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\cinemaroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\showtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\showtimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7918F62C-30C0-4402-8773-03CBDB5D091F}|Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\shared\\ws.share.constant\\database\\dbschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7918F62C-30C0-4402-8773-03CBDB5D091F}|Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj|solutionrelative:service\\shared\\ws.share.constant\\database\\dbschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\wswebapi\\wswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDBFBA1B-C5A3-4473-B77F-F76AD00A073E}|WSWEBAPI\\WSWEBAPI.csproj|solutionrelative:wswebapi\\wswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7918F62C-30C0-4402-8773-03CBDB5D091F}|Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\shared\\ws.share.constant\\ws.share.constant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7918F62C-30C0-4402-8773-03CBDB5D091F}|Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj|solutionrelative:service\\shared\\ws.share.constant\\ws.share.constant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\cinemaroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\cinemaroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\implement\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\implement\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\ishowtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\ishowtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\idirectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\idirectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.applicationservice\\service\\abstract\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B1C99-3F1B-4174-A75C-8C8E8D802C6D}|Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj|solutionrelative:service\\movie\\ws.movie.applicationservice\\service\\abstract\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57BD4F-48FC-45CE-AD95-8D1CEF567EAE}|Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\shared\\ws.shared.applicationservice\\user\\iuserinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B57BD4F-48FC-45CE-AD95-8D1CEF567EAE}|Service\\Shared\\WS.Shared.ApplicationService\\WS.Shared.ApplicationService.csproj|solutionrelative:service\\shared\\ws.shared.applicationservice\\user\\iuserinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\cinemaroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\cinemaroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97EC58-B3E7-4FA9-B131-DD87131B0D6D}|Service\\Movie\\WS.Movie.Dtos\\WS.Movie.Dtos.csproj|solutionrelative:service\\movie\\ws.movie.dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\ticketseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\ticketseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\cinemaroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\cinemaroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|c:\\users\\vanhu\\source\\repos\\baith2\\wswebapi\\service\\movie\\ws.movie.domain\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD6B8AA-FDCD-4A77-BFBD-3B90B05786B4}|Service\\Movie\\WS.Movie.Domain\\WS.Movie.Domain.csproj|solutionrelative:service\\movie\\ws.movie.domain\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WSWEBAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\appsettings.json",
+              "RelativeToolTip": "WSWEBAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T18:06:51.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:21:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Program.cs",
+              "RelativeToolTip": "WSWEBAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:43:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\DiscountController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:04:17.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DiscountService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DiscountService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:59:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\TicketService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\TicketService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\TicketService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\TicketService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:42:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieStartup.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Startup\\MovieStartup.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Startup\\MovieStartup.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Startup\\MovieStartup.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Startup\\MovieStartup.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAjwEYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:50:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:35:38.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:22:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:16:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WS.Movie.ApplicationService.csproj",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\WS.Movie.ApplicationService.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T16:42:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\RoleService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\RoleService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\RoleService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\RoleService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:41:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\TicketDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\TicketDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\TicketDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:33:06.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ITicketService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:35:15.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\DirectorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:19:27.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:18:52.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:18:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:10:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\DiscountDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\DiscountDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\DiscountDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\DiscountDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:57:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDiscountService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDiscountService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:58:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CommentService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CommentService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CommentService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:39:06.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICinemaRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaRoomService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaRoomService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaRoomService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaRoomService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:30:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Discount.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Discount.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Discount.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Discount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:47:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TicketDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\TicketDiscount.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\TicketDiscount.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\TicketDiscount.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\TicketDiscount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:49:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\User.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\User.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\User.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Ticket.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Ticket.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:37.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\UserDiscount.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\UserDiscount.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\UserDiscount.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\UserDiscount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:48:39.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:20:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\SeatController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\SeatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:21:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:21:35.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:20:37.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwJ4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:20:12.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:19:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CinemaRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CinemaRoomController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\CinemaRoomController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\CinemaRoomController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\CinemaRoomController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:18:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "WSWEBAPI\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "WSWEBAPI\\Controllers\\ActorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:15:58.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowTimeDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\ShowTimeDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\ShowTimeDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\ShowTimeDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\ShowTimeDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:32:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\RoleDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\RoleDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:25:41.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\NotificationDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\NotificationDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:24:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DbSchema.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\Database\\DbSchema.cs",
+              "RelativeDocumentMoniker": "Service\\Shared\\WS.Share.Constant\\Database\\DbSchema.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\Database\\DbSchema.cs",
+              "RelativeToolTip": "Service\\Shared\\WS.Share.Constant\\Database\\DbSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:28:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WSWEBAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj",
+              "RelativeDocumentMoniker": "WSWEBAPI\\WSWEBAPI.csproj",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\WSWEBAPI\\WSWEBAPI.csproj",
+              "RelativeToolTip": "WSWEBAPI\\WSWEBAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T18:05:20.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WS.Share.Constant.csproj",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+              "RelativeDocumentMoniker": "Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+              "RelativeToolTip": "Service\\Shared\\WS.Share.Constant\\WS.Share.Constant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T17:28:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\UserService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\UserService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\UserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:43:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShowTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ShowTimeService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ShowTimeService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ShowTimeService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ShowTimeService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:42:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SeatService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\SeatService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\SeatService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\SeatService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\SeatService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:41:55.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\NotificationService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\NotificationService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:41:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\MovieService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\MovieService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\MovieService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\MovieService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAvwGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:40:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\GenreService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\GenreService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\GenreService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\GenreService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:39:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DirectorService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DirectorService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DirectorService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DirectorService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\DirectorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:39:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CinemaService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:38:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CinemaRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaRoomService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaRoomService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaRoomService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\CinemaRoomService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:38:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\AuthenticationService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\AuthenticationService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:36:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ActorService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ActorService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ActorService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Implement\\ActorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:36:02.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IShowTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IShowTimeService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IShowTimeService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IShowTimeService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IShowTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:34:56.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ISeatService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ISeatService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ISeatService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ISeatService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ISeatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:34:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IRoleService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:34:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\INotificationService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:33:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IMovieService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:32:13.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IGenreService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IGenreService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:31:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IDirectorService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDirectorService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDirectorService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDirectorService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IDirectorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:31:40.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICommentService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:31:21.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICinemaService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\ICinemaService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:31:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IActorService.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IActorService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IActorService.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.ApplicationService\\Service\\Abstract\\IActorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:30:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IUserInforService.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "RelativeDocumentMoniker": "Service\\Shared\\WS.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Shared\\WS.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "RelativeToolTip": "Service\\Shared\\WS.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:29:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\UserDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\UserDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:33:41.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SeatDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\SeatDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\SeatDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\SeatDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\SeatDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:26:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Movie.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Movie.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Movie.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\MovieDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\MovieDto.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:24:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\GenreDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\GenreDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:23:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DirectorDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\DirectorDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\DirectorDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\DirectorDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\DirectorDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:22:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Seat.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Seat.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Seat.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CommentDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\CommentDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:22:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CinemaRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CinemaRoomDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\CinemaRoomDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CinemaRoomDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\CinemaRoomDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:21:34.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CinemaDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CinemaDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\CinemaDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\CinemaDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\CinemaDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:20:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:20:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ActorDto.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\ActorDto.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Dtos\\ActorDto.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Dtos\\ActorDto.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Dtos\\ActorDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:19:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Role.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Role.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Role.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:03.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\ShowTime.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\ShowTime.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "TicketSeat.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\TicketSeat.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\TicketSeat.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\TicketSeat.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\TicketSeat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:14:45.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\UserNotification.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\UserNotification.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\UserNotification.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\UserNotification.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:15:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Notification.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Notification.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Notification.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Notification.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:13:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\MovieGenre.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:13:20.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\MovieActor.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\MovieActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:13:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Genre.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Genre.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Genre.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:50.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Director.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Director.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Director.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:44.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Comment.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Comment.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Comment.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CinemaRoom.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\CinemaRoom.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\CinemaRoom.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\CinemaRoom.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\CinemaRoom.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Cinema.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Cinema.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Cinema.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:12:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Actor.cs",
+              "RelativeDocumentMoniker": "Service\\Movie\\WS.Movie.Domain\\Actor.cs",
+              "ToolTip": "C:\\Users\\vanhu\\source\\repos\\BaiTH2\\WSWEBAPI\\Service\\Movie\\WS.Movie.Domain\\Actor.cs",
+              "RelativeToolTip": "Service\\Movie\\WS.Movie.Domain\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:11:57.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1083,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1544,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

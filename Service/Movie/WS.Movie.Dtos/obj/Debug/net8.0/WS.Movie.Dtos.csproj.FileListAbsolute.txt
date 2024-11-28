@@ -1,0 +1,17 @@
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Movie.Dtos.deps.json
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Movie.Dtos.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Movie.Dtos.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Movie.Domain.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Share.Constant.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Movie.Domain.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\bin\Debug\net8.0\WS.Share.Constant.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.csproj.AssemblyReference.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.AssemblyInfoInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.AssemblyInfo.cs
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.D694700A.Up2Date
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\refint\WS.Movie.Dtos.dll
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\WS.Movie.Dtos.pdb
+C:\Users\vanhu\source\repos\BaiTH2\WSWEBAPI\Service\Movie\WS.Movie.Dtos\obj\Debug\net8.0\ref\WS.Movie.Dtos.dll
